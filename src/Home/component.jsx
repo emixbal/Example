@@ -15,7 +15,7 @@ function App({
             <div className="App-container">
                 <img src={Logo} className="App-logo"/>
                 
-                <div className="App-body">
+                {/* <div className="App-body">
                     <div className="row">
                         <div className="col-12">
                             <InputGroup>
@@ -34,7 +34,7 @@ function App({
                             </div>
                         ))}
                     </div>
-                </div>
+                </div> */}
 
             </div>
         </div>

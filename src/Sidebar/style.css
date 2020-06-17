@@ -1,0 +1,8 @@
+.rs-nav-item .active,
+.rs-dropdown-item .active { 
+  color: #1675e0 !important;
+}
+
+.rs-sidenav-collapse-in { 
+  overflow-y: auto;
+}
