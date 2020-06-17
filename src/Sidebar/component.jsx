@@ -37,7 +37,7 @@ function App({open, toogle_open}) {
             <Sidenav.Header>
                 <div
                     style={headerStyles}
-                    className="h-56px text-white bg-primary text-nowrap overflow-hidden">
+                    className="h-56px text-dark bg-warning text-nowrap overflow-hidden font-weight-bold">
                     <Icon icon="logo-analytics" size="lg"/>
                     <span className="ml-3">SEMBAKOO</span>
                 </div>

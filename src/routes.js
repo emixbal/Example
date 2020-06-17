@@ -19,7 +19,7 @@ const router = () => {
                         <Sidebar />
                         <div className="flex-grow-1">
                             <div className="d-flex flex-column h-100">
-                                <div className="h-56px text-white bg-primary text-nowrap overflow-hidden centering-left pl-3">
+                                <div className="h-56px text-dark bg-warning text-nowrap overflow-hidden centering-left pl-3 font-weight-bold">
                                     Dashboard Monitoring
                                 </div>
                                 <div className="flex-grow-1">
