@@ -99,7 +99,7 @@ function App({open, toogle_open}) {
                             renderTitle={children => {
                             return <Icon icon="cog" className="h-56px w-56px text-center lh-56px"/>;
                         }}>
-                            <Dropdown.Item>Sign out</Dropdown.Item>
+                            <SubLink to={"/login"}>Sign out</SubLink>
                         </Dropdown>
                     </Nav>
 

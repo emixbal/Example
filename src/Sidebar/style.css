@@ -6,3 +6,7 @@
 .rs-sidenav-collapse-in { 
   overflow-y: auto;
 }
+
+.rs-sidebar > * { 
+  background-color: #fbfbfb !important;
+}
